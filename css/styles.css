@@ -132,7 +132,7 @@ line-height: 1;
 .mouse_text {text-align:center;font-size:13px;color:#fff;line-height:1.3em;margin-bottom:13px;}
 
 /*승주about*/
-.sz_box1{margin: 0 auto;position: relative;background: url(/images/images/sz_1bg.png)no-repeat;width: 1920px;height: 993px;}
+.sz_box1{margin: 0 auto;position: relative;background: url(../images/images/sz_1bg.png)no-repeat;width: 1920px;height: 993px;}
 .sz_tx1bx{text-align: center;padding: 160px 0 84px;}
 .sub_title{padding-bottom: 25px;font-size: 18px;color: #949494;font-weight: 100;letter-spacing: 10px;}
 .sub_title2{font-size: 40px;color: #333;font-family: 'Montserrat', sans-serif;font-weight: bold;}
@@ -169,7 +169,7 @@ line-height: 1;
 
 
 /*szbox3*/
-.szbox3{background: url(/images/images/sz3_bg.jpg)no-repeat;background-position: center;width: 1920px;height: 760px;background-attachment: fixed;margin: 0 auto;background-size: cover;}
+.szbox3{background: url(../images/images/sz3_bg.jpg)no-repeat;background-position: center;width: 1920px;height: 760px;background-attachment: fixed;margin: 0 auto;background-size: cover;}
 .szbox3 .sc{text-align: center;}
 .szbox3 .sub_title,.szbox3 .sub_title2{color: #fff;}
 .szbox3 .vision_tx{font-size: 18px;color: #fff;text-align: center;font-weight: 100;line-height: 35px;}
