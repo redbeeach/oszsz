@@ -15,7 +15,7 @@ body {
   left: 50%;
   transform: translate(-50%, 0%);
   width:1920px;height:100vh;
-    background:url(/images/images/mv_1.jpg)no-repeat;
+    background:url(../images/images/mv_1.jpg)no-repeat;
     background-size: 105%;
 }
 
