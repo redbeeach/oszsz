@@ -177,6 +177,8 @@ line-height: 1;
 .szbox3 .sz_tx1bx .sub_title2:after{content: '/';display: block;font-size: 29px;font-weight: 100;margin:20px 0;}
 
 /*szbox4*/
+.szbox4{height: 821px}
+.szbox4 .sub_title{letter-spacing: 7px}
 .szbox4 .sz_tx1bx{padding: 160px 0 0}
 .szbox4 ul{width: 100%}
 .szbox4 ul li{float: left;width: 33.3333%;text-align: center;}
@@ -184,7 +186,15 @@ line-height: 1;
 .szbox4 ul li p{font-size: 20px;color: #000;font-weight: 100;}
 
 /*footer*/
-footer{height: 300px;}
+footer{height: 170px;background: #383838;}
+footer .ft_logo{float: left;}
+footer .ft_logo a{display:inline-block;padding:70px 0}
+footer .ft_tx{float: left;}
+footer .ft_tx p{font-size: 15px;color: #fff;font-weight: 300;padding: 60px 70px 0;line-height: 30px}
+footer .ft_icon{float: right;}
+footer .ft_icon ul {padding: 60px 0}
+footer .ft_icon ul li{float: left;}
+footer .ft_icon ul li:nth-child(2){padding: 0px 10px}
 @media (max-width: 900px) {
   .wrapper-img {
     width: 90%;
